@@ -1,4 +1,4 @@
-# 📞 Flux Call - Seamless & Fast Communication Tool
+📞 Flux Call - Seamless & Fast Communication Tool
 
 **Flux Call** is a modern, web-based communication platform designed for fast and efficient connectivity. Built to provide a smooth user experience, Flux Call allows users to manage their communication needs with a sleek and intuitive interface.
 
